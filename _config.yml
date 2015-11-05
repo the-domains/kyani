@@ -1,0 +1,23 @@
+name: Kyani
+favicon: null
+layout_spectrum: 0.0666964037809521
+typography_spectrum: 0.4143495294265449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1606354466639459
+  lightness: 0.6669143019244075
+  saturation: 0.2624439359642565
+  rhythmicContrast: 0.14858380029909313
+purpose: []
